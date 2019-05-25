@@ -78,6 +78,10 @@ a {
   display: inline-block;
   width: 1000px;
 }
+ .title {
+  display: flex;
+  flex-direction: column;
+ }
 
 .pictures {
   width: 300px;
