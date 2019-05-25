@@ -118,3 +118,10 @@ a {
   margin: 15px 20px;
   opacity: 1;
 }
+
+/*Footer*/
+
+.copyright {
+  text-align: left;
+  padding-left: 20px;
+}
